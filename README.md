@@ -1,4 +1,5 @@
 # Bank-Users-DropOut-Modelling
+## Mink Project
 
 A full study case which shows how different factors affect the dropout of clients in a bank entity. This project is managed with CRISP-DM framework, so every stage shows the tasks to achieve a model which predict and classify a user and his future in the bank.
 
