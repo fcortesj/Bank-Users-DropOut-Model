@@ -1,11 +1,11 @@
 # Bank-Users-DropOut-Model
 
 ## Members
-Luis Javier Palacio
-Felipe Cortes Jaramillo
-Jamerson Stive Correa
-Maria Camila Garcia
-Alicia Maria Aguirre
+- Luis Javier Palacio
+- Felipe Cortes Jaramillo
+- Jamerson Stive Correa
+- Maria Camila Garcia
+- Alicia Maria Aguirre
 
 ## Mink Project
 
